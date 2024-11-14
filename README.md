@@ -8,3 +8,6 @@ Our method introduces registers during the feature aggregation process and uses 
 
 Our main contribution is the redistribution of attention weights in feature maps, allowing the model to focus on robust features in the image, thereby improving the accuracy of visual place recognition.
 ![Introduction](img/heatmap_introduction.png)
+
+## Method
+![Method](img/method.png)
