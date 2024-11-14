@@ -17,3 +17,5 @@ Our main contribution is the redistribution of attention weights in feature maps
 
 ## Qualitative result
 ![Qualitative result](img/qualitative_result.png)
+
+## Our code is coming soon.
