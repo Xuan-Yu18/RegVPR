@@ -19,3 +19,15 @@ Our main contribution is the redistribution of attention weights in feature maps
 ![Qualitative result](img/qualitative_result.png)
 
 ## Our code is coming soon.
+
+## Acknowledgements
+This work was supported by the National Natural Science Foundation of China (Grant Nos.62276132 and 61876085).
+
+## Cite
+```
+@article{yu2024register,
+  title={Register assisted aggregation for Visual Place Recognition},
+  author={Yu, Xuan and Fu, Zhenyong},
+  journal={arXiv preprint arXiv:2405.11526},
+  year={2024}
+}
